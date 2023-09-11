@@ -1,0 +1,1 @@
+const addActivities = document.getElementById('addActivities')
